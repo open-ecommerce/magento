@@ -1,5 +1,5 @@
 # magento
 Tips and Tools
 
-y viva peron
+- casperjs for 1.9 with rwd theme
 

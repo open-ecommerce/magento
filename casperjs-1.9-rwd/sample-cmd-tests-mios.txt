@@ -1,0 +1,6 @@
+casperjs --pre=config.js test --url="http://gpmd.oe/" tests/
+
+
+
+
+
